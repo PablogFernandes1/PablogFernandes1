@@ -2,9 +2,10 @@
 
 
 
-- Eu trabalho com back e front end.
-- Estou estudando JavaScript.
-
+- I work with front and back end
+- I'm fluent in english
+- Currently, I'm studying Typescript
+    
 <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=PablogFernandes1&show_icons=true&theme=dark"
