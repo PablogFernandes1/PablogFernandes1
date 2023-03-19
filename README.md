@@ -1,10 +1,10 @@
-### Olá!Eu sou o PablogFernandes1
+### Hello! I'm Pablo Fernandes.
 
 
 
-- I work with front and back end
-- I'm fluent in english
-- Currently, I'm studying Typescript
+- I work with front and back end.
+- I'm fluent in english.
+- Currently, I'm studying Typescript.
     
 <picture>
 <source 
