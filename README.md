@@ -34,5 +34,3 @@
   <a href="https://instagram.com/pg.fernandes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/P4blinhoo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 </div>
-
-![snake animation](https://github.com/PablogFernandes1/PablogFernandes1/blob/output/github-contribution-grid-snake.svg)
