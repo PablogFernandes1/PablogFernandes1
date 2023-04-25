@@ -4,8 +4,7 @@
 
 - I work with front and back end.
 - I'm fluent in english.
-- Currently, I'm studying Typescript.
-- 
+
 <div style="display: flex;">
     <picture>
       <source srcset="https://github-readme-stats.vercel.app/api?username=PablogFernandes1&show_icons=true&theme=material-palenight" media="(prefers-color-scheme: dark)" >
